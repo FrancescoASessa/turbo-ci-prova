@@ -1,0 +1,5 @@
+{
+  "name": "turbo-ci-prova",
+  "private": true,
+  "scripts": { "build": "mkdir -p dist && cp index.html dist/" }
+}
